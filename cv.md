@@ -14,7 +14,7 @@ I started as power-engineer specialist, but this profession and studying disappo
 ## Skills
 	-	HTML 5.2, CSS 3, SCSS
 	-	JavaScript Basics
-	- Visual Studio, Visual Studio Code
+	-	Visual Studio, Visual Studio Code
 	-	C#, .NET, PHP 8.0 Basics
 	-	Figma
 	-	Git, GitHub
@@ -30,9 +30,19 @@ Your task is to write a function that takes a string and return a new string wit
 
 For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".*
 **Solution:**
-```
+```javascript
 function disemvowel(str) {
   str = str.replace(/[aoeiu]/gi, '')
   return str;
 }
 ```
+
+## Education:
+	-	RS Schools Course "JavaScript/Front-end Stage 1" (in progress)
+	-	[freecodecamp.org](https://www.freecodecamp.org/)
+	-	[learn.javascript.ru](https://learn.javascript.ru/)
+
+## Languages:
+	* English - Intermediate/Upper-intermediate
+	* Russian - Native
+	* French - Basic
